@@ -1,0 +1,7 @@
+.idea
+*.pdf
+*.docx
+*/.idea
+*/exportToHTML
+*/src
+*/out
