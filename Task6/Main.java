@@ -3,8 +3,8 @@ import java.util.stream.Stream;
 import sort.*;
 import utils.*;
 
-public class Task6 {
-	public static void main(String[] argv) {
+public class Main {
+	public static void main(String[] args) {
 		Student[] studentsList1 = Utils.createArray(100);
 		Student[] studentsList2 = Utils.createArray(100);
 
